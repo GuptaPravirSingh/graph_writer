@@ -1,9 +1,7 @@
 # graph_writer
 
-This repository is intended to visualize and publish interactive computation graphs such as -  
-
-<h3>PyTorch Networks</h3>
-<h3>Tensorflow Networks</h3>.
+This repository is intended to visualize and publish interactive computation graphs such as - <b>PyTorch Networks</b>
+and <b>Tensorflow Networks</b>.
 
 ## installation
 pip install graph_writer
