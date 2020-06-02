@@ -5,6 +5,9 @@ This repository is intended to visualize and publish interactive computation gra
 <h3>PyTorch Networks</h3>
 <h3>Tensorflow Networks</h3>.
 
+## installation
+pip install graph_writer
+
 ## Aknowledgements 
 
 Equal Contributors: [Partha Ghosh](https://github.com/ParthaEth), [Pravir Singh Gupta](https://github.com/GuptaPravirSingh)
